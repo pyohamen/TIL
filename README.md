@@ -1,4 +1,4 @@
-# Today I Learned
+# Today I Learned 👨🏻‍💻
 
 > Recording what I've learned to make mine and share with the world
 
