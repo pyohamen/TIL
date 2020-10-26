@@ -8,15 +8,24 @@
 
 ### 🛠 IDE
 
-- [Pycharm](/IDE/Pycharm.md)
-- [VScode](/IDE/VScode.md)
+- #### [Pycharm](/IDE/Pycharm.md)
+
+- #### [VScode](/IDE/VScode.md)
 
 ### 🐍 Python
 
-- Syntax
-  - 
+- #### Syntax
 
-- [Python Virtual Environment](/Python/Python_Virtual_Environment.md)
+  - [01_python_intro](/Python/Syntax/01_python_intro.ipynb)
+  - []/Python/Syntax/
+  - /Python/Syntax/
+  - /Python/Syntax/
+  - /Python/Syntax/
+  - /Python/Syntax/
+  - /Python/Syntax/
+  - /Python/Syntax/
+
+- #### [Python Virtual Environment](/Python/Python_Virtual_Environment.md)
 
 ### 🐱 Git
 
