@@ -41,32 +41,31 @@
 
    > 가상 환경을 굳이 Git과 같은 소스 버전 관리 시스템에 올릴 필요는 없으므로 `.venv` 디렉토리를 `.gitignore` 파일에 추가
 
-- ```shell
-  $ echo '.venv' >> .gitignore
-  ```
+   - ```shell
+     $ echo '.venv' >> .gitignore
+     ```
 
-  
+
 
 4. activate your virtual environment
 
-- Mac
+   - ```shell
+     # mac
+     $ source .venv/bin/activate
+     ```
 
-  - ```shell
-    $ source .venv/bin/activate
-    ```
-
-- Window
-  - ```powershell
-    $ source .venv/Script/activate
-    ```
+   - ```shell
+     # mac
+     $ source .venv/Script/activate
+     ```
 
 <br>
 
 5. set up command alias in .`bashrc`
 
-- ```python
-  alias va="source venv/bin/activate"
-  ```
+   - ```shell
+     alias va="source venv/bin/activate"
+     ```
 
 
 
