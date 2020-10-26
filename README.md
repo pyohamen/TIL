@@ -8,9 +8,9 @@
 
 ### 🛠 IDE
 
-- #### [Pycharm](/IDE/Pycharm.md)
+- [Pycharm](/IDE/Pycharm.md)
 
-- #### [VScode](/IDE/VScode.md)
+- [VScode](/IDE/VScode.md)
 
 ### 🐍 Python
 
@@ -25,9 +25,19 @@
   - [07_OOP_basic](/Python/Syntax/07_OOP_basic.ipynb)
   - [08_OOP_advanced](/Python/Syntax/08_OOP_advanced.ipynb)
 
-- #### [Python Virtual Environment](/Python/Python_Virtual_Environment.md)
+- [Python Virtual Environment](/Python/Python_Virtual_Environment.md)
 
 ### 🐱 Git
+
+- #### [Git basics]()
+
+  - [Git 101](/Git/Git_basics/Git_101.md)
+  - [Branch](/Git/Git_basics/Branch.md)
+  - [Git ignore](/Git/Git_basics/Git_ignore.md)
+
+- [Git-flow](/Git/Git-flow.md)
+
+- [Gitbook](/Git/Gitbook.md)
 
 ### 1️⃣ HTML
 
