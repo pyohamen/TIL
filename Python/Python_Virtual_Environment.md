@@ -20,7 +20,7 @@ $ python --version
 Python 3.6.9
 ```
 
-Python 2 까지는 외부패키지를 통해 설치했지만 Python 3 부터는 venv 모듈이 내장되어 있기 때문에 따로 설치할 필요 없습니다. 만약 Python 2 라면
+Python 2 까지는 외부패키지를 통해 설치했지만 Python 3 부터는 venv 모듈이 내장되어 있기 때문에 따로 설치할 필요 없습니다. 만약 Python 2 라면 아래 명령을 통해 패키지를 설치합니다.
 
 ```bash
 $ pip install virtualenv
