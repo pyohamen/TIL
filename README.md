@@ -2,7 +2,7 @@
 
 > Recording what I've learned to make mine and share with the world
 
-> Check out my ➡️ [Github](https://github.com/pyohamen) ➡️ [Algorithm](https://pyohamen.gitbook.io/algorithm/)
+🙋‍♂️ move to my ➡️ [Github](https://github.com/pyohamen) ➡️ [Algorithm](https://pyohamen.gitbook.io/algorithm/)
 
 ## Table of Contents
 
