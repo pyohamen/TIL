@@ -4,21 +4,21 @@
 
 ## Table of Contents
 
-### IDE
+### 🛠 IDE
 
-### Python
+### 🐍 Python
 
-### Git
+### 🐱 Git
 
-### HTML
+### 1️⃣ HTML
 
-### CSS
+### 2️⃣ CSS
 
-### JavaScript
+### 3️⃣ JavaScript
 
-### Django
+### 🔫 Django
 
-### DB
+### 🗄 DB
 
-### Vue.js
+### 🎨 Vue.js
 
