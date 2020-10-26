@@ -1,13 +1,13 @@
 # Python Virtual Environment
 
+> Ref: [Chloe's TIL](https://chloe-codes1.gitbook.io/til/python/python_virtual_environment)
+
 ### Purpose of Python virtual environment
 
 - To create an isolated environment for different Python projects
   - You can install a specific version of the module on each project without worrying that it will affect your other Python projects.
 
-<br>
 
-<br>
 
 ## Create Virtual Environment for Python 3
 
