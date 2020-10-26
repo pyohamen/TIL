@@ -1,7 +1,7 @@
 ### Purpose of Python virtual environment
 
 - To create an isolated environment for different Python projects
-  - You can install a specific version of module on each project  without worrying that it will affect your other Python projects.
+  - You can install a specific version of the module on each project without worrying that it will affect your other Python projects.
 
 <br>
 
