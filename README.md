@@ -1,8 +1,8 @@
 # Today I Learned 👨🏻‍💻
 
 > Recording what I've learned to make mine and share with the world
->
-> ➡️ [Github](https://github.com/pyohamen) ➡️ [Algorithm](https://pyohamen.gitbook.io/algorithm/)
+
+> Check out my ➡️ [Github](https://github.com/pyohamen) ➡️ [Algorithm](https://pyohamen.gitbook.io/algorithm/)
 
 ## Table of Contents
 
