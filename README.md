@@ -8,7 +8,13 @@
 
 ### 🛠 IDE
 
+- [Pycharm](/IDE/Pycharm.md)
+- [VScode](/IDE/VScode.md)
+
 ### 🐍 Python
+
+- Syntax
+  - 
 
 - [Python Virtual Environment](/Python/Python_Virtual_Environment.md)
 
