@@ -14,7 +14,7 @@
 
 ### 🐍 Python
 
-- #### Syntax
+- #### [Syntax]()
 
   - [01_python_intro](/Python/Syntax/01_python_intro.ipynb)
   - [02_control_of_flow](/Python/Syntax/02_control_of_flow.ipynb)
