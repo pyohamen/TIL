@@ -1,3 +1,5 @@
+➡️ [Github](https://github.com/pyohamen) ➡️ [Algorithm](https://pyohamen.gitbook.io/algorithm/)
+
 # Today I Learned 👨🏻‍💻
 
 > Recording what I've learned to make mine and share with the world
