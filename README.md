@@ -46,6 +46,11 @@
 
 ### 3️⃣ JavaScript
 
+- [JS 101](/JavaScript/JS_101.md)
+- [Document Object Model](/JavaScript/DOM.md)
+- [ES (ECMAscript)](/JavaScript/ES.md)
+- [Ajax (Asynchronous Javascript And XML)](/JavaScript/Ajax.md)
+
 ### 🔫 Django
 
 ### 🗄 DB
