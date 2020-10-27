@@ -359,8 +359,3 @@
   </body>
   </html>
   ```
-
-# Vue-apps
-
-- lifeCycleHooks #스크롤모니터 #created:
-- 
