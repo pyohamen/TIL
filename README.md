@@ -73,6 +73,6 @@
 
 ### 💻 Programming
 
-- [CS 용어사전](/Programming/CS_용어사전.md)
+- [Programming 용어사전](/Programming/CS_용어사전.md)
 - [Communication](/Programming/Communication.md)
 

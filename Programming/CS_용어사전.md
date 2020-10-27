@@ -93,3 +93,14 @@
 ```
 cmd와 다르게 powershell은 객체지향언어
 ```
+
+
+
+## Case naming convention
+
+1. lowerCamelCase
+2. UpperCamelCase
+3. snake_case
+4. Hungarian notation
+
+이름 앞에 변수 타입을 넣어줌 ex) ch, db, str, b
