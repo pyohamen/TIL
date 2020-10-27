@@ -16,6 +16,7 @@
 
 - #### [Syntax]()
 
+  - [00_personal_notes](/Python/Syntax/00_personal_notes.md)
   - [01_python_intro](/Python/Syntax/01_python_intro.ipynb)
   - [02_control_of_flow](/Python/Syntax/02_control_of_flow.ipynb)
   - [03_function](/Python/Syntax/03_function.ipynb)
