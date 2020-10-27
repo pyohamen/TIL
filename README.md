@@ -55,6 +55,8 @@
 
 ### 🗄 DB
 
+- [DB basics](/DB/DB_basics.md)
+
 ### 🎨 Vue.js
 
 - [01_Vue.js_Intro](/Vue.js/01_Vue.js_Intro.md)
@@ -63,7 +65,14 @@
 
 - [Commands](/Linux/Command.md)
 
+### ☁️AWS
+
+- AWS 로 시작하는 클라우드 컴퓨팅
+  - [01 아마존 웹 서비스 Cloud 개요](/AWS/AWS로_시작하는_클라우드_컴퓨팅/01_아마존웹서비스_Cloud개요.md)
+  - [02 AWS 주요 서비스 이해하기](/AWS/AWS로_시작하는_클라우드_컴퓨팅/02_AWS주요서비스이해하기.md)
+
 ### 💻 Programming
 
-- CS 용어사전
-- 
+- [CS 용어사전](/Programming/CS_용어사전.md)
+- [Communication](/Programming/Communication.md)
+
