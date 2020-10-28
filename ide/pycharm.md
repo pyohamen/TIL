@@ -13,3 +13,10 @@
 | `control` + `shift` + `R` | 현재 파일 실행 |
 |  |  |
 
+> Window OS
+
+| shortcut                 | discription    |
+| ------------------------ | -------------- |
+| `ctrl` + `shift` + `F10` | 현재 파일 실행 |
+|                          |                |
+
