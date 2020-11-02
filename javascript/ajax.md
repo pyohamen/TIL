@@ -4,14 +4,13 @@
 
 techs
 
-```text
-  - HTML & CSS
+- HTML & CSS
   - DOM & JavaScript
   - XML & XSLT ( XML 문서를 다른 XML 문서로 변환하는데 사용하는 XML 기반 언어 /
 원본 XML 기반으로 새로운 XML 생성 ) & XHR => 웹 서버와 비동기적으로 데이터를 교환하고 조작함
-```
 
 * cdn
+  
   * vue js cdn 검색 - 복사 후 기입
 * scrollmonitor
 

@@ -4,6 +4,8 @@
 
 🙋‍♂️ move to my ➡️ [Algorithm](https://pyohamen.gitbook.io/algorithm/) ➡️ [Github](https://github.com/pyohamen)
 
+
+
 ## Table of Contents
 
 ### 🛠 IDE
@@ -50,6 +52,14 @@
 ### 🗄 DB
 
 * [DB basics](db/db_basics.md)
+* SQL
+  * [데이터 모델링의 이해](/db/SQL/데이터모델링의_이해.md)
+  * [SQL 기본 및 활용](/db/SQL/SQL기본및활용.md)
+* DA
+  * [전사아키텍처 이해](/db/DA/전사아키텍처_이해.md)
+  * [데이터 요건분석](/db/DA/데이터_요건분석.md)
+  * [데이터 표준화](db/DA/데이터표준화.md)
+  * [데이터 모델링](/db/DA/데이터모델링.md)
 
 ### 🎨 Vue.js
 
