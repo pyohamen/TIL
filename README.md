@@ -1,6 +1,8 @@
 # Today I Learned 👨🏻‍💻
 
-> Recording what I've learned to make mine and share with the world
+> Recording what I've learned 
+
+> *We do not learn from experiences. We learn from reflecting on experiences* - John Dewey
 
 🙋‍♂️ move to my ➡️ [Algorithm](https://pyohamen.gitbook.io/algorithm/) ➡️ [Github](https://github.com/pyohamen)
 
