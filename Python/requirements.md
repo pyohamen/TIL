@@ -60,5 +60,5 @@
 
    - 패키지는 venv 에 설치하자 ~
 
-     - [venv 설치하기](../python_virtual_environment)
+     - [venv 설치하기](/python_virtual_environment.md)
 
