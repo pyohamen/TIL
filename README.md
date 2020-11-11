@@ -28,6 +28,7 @@
   * [07\_OOP\_basic](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/07_OOP_basic.ipynb)
   * [08\_OOP\_advanced](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/08_OOP_advanced.ipynb)
 * [Python Virtual Environment](python/python_virtual_environment.md)
+* [requirements](python/requirements.md)
 
 ### 🐱 Git
 
