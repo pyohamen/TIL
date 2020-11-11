@@ -12,6 +12,8 @@
    $ pip freeze > requirements.txt
    ```
 
+   > freeze 는 pip 명령어
+
 2. ##### requirements.txt 예
 
    ```txt
@@ -36,6 +38,8 @@
 
 3. ##### 패키지 설치
 
+   > requirements.txt 가 있는 디렉토리에서 아래 명령어
+
    ```shell
    $ pip install -r requirements.txt
    ```
@@ -56,5 +60,5 @@
 
    - 패키지는 venv 에 설치하자 ~
 
-     - [venv 설치하기](python_virtual_environment)
+     - [venv 설치하기](../python_virtual_environment)
 
