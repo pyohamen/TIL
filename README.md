@@ -2,7 +2,7 @@
 
 > Recording what I've learned 
 
-> *We do not learn from experiences. We learn from reflecting on experiences* - John Dewey
+> *We do not learn from experiences. We learn from [reflecting](reflecting.md) on experiences* - John Dewey
 
 🙋‍♂️ move to my ➡️ [Algorithm](https://pyohamen.gitbook.io/algorithm/) ➡️ [Github](https://github.com/pyohamen)
 
