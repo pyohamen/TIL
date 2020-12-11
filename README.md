@@ -17,7 +17,7 @@
 
 ### 🐍 Python
 
-* [syntax\_notes](Python/Syntax/00_personal_notes.md)
+* [syntax\_notes](Python/00_personal_notes.md)
 
 * [Python Virtual Environment](Python/python_virtual_environment.md)
 * [requirements_package_management](Python/requirements.md)
