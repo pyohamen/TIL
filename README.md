@@ -18,7 +18,7 @@
 ### 🐍 Python
 
 * [**Syntax**](./)
-  * [00\_personal\_notes](python/syntax/00_personal_notes.md)
+  * [00\_personal\_notes](Python/Syntax/00_personal_notes.md)
   * [01\_python\_intro](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/01_python_intro.ipynb)
   * [02\_control\_of\_flow](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/02_control_of_flow.ipynb)
   * [03\_function](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/03_function.ipynb)
@@ -27,7 +27,7 @@
   * [06\_errors](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/06_errors.ipynb)
   * [07\_OOP\_basic](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/07_OOP_basic.ipynb)
   * [08\_OOP\_advanced](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/08_OOP_advanced.ipynb)
-* [Python Virtual Environment](Python/python_virtual_environment.md)
+* [Python Virtual Environment](Python/00_python_virtual_environment.md)
 * [requirements_package_management](Python/requirements.md)
 
 ### 🐱 Git
