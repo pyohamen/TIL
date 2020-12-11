@@ -14,19 +14,21 @@ $ touch .gitignore
 
 ex\)
 
-* To exclude all files ending in `.log`
+- 
+
+* To ignore all files ending in `.log`
 
   ```text
   $ echo '*.log' >> .gitignore
   ```
 
-* To exclude any file names that contain `.log`
+* To ignore any file names that contain `.log`
 
   ```text
   $ echo '*.log*' >> .gitignore
   ```
 
-* To exclude all files in a specific path
+* To ignore all files in a specific path
 
   ```text
   $ echo 'directory' >> .gitignore

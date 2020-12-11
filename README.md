@@ -29,7 +29,6 @@
   * [Branch](Git/Git_basics/branch.md)
   * [Git ignore](git/git_basics/git_ignore.md)
 * [Git-flow](git/git-flow.md)
-* [Gitbook](git/gitbook.md)
 
 ### 1️⃣ HTML
 
