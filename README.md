@@ -17,7 +17,7 @@
 
 ### 🐍 Python
 
-* \*\*\*\*[**Syntax**](./)\*\*\*\*
+* [**Syntax**](./)
   * [00\_personal\_notes](python/syntax/00_personal_notes.md)
   * [01\_python\_intro](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/01_python_intro.ipynb)
   * [02\_control\_of\_flow](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/02_control_of_flow.ipynb)
@@ -32,7 +32,7 @@
 
 ### 🐱 Git
 
-* \*\*\*\*[**Git basics**](./)\*\*\*\*
+* [**Git basics**](./)
   * [Git 101](git/git_basics/git_101.md)
   * [Branch](git/git_basics/branch.md)
   * [Git ignore](git/git_basics/git_ignore.md)
@@ -107,7 +107,7 @@
 
 ### ☁️AWS
 
-* \*\*\*\*[**AWS 로 시작하는 클라우드 컴퓨팅**](./)\*\*\*\*
+* [**AWS 로 시작하는 클라우드 컴퓨팅**](./)
   * [01 아마존 웹 서비스 Cloud 개요](aws/aws-_-_-_/01_-_cloud.md)
   * [02 AWS 주요 서비스 이해하기](aws/aws-_-_-_/02_aws.md)
 
