@@ -17,24 +17,16 @@
 
 ### 🐍 Python
 
-* [**Syntax**](./)
-  * [00\_personal\_notes](Python/Syntax/00_personal_notes.md)
-  * [01\_python\_intro](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/01_python_intro.ipynb)
-  * [02\_control\_of\_flow](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/02_control_of_flow.ipynb)
-  * [03\_function](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/03_function.ipynb)
-  * [04\_data\_structure](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/04_data_structure.ipynb)
-  * [05\_module](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/05_module.ipynb)
-  * [06\_errors](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/06_errors.ipynb)
-  * [07\_OOP\_basic](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/07_OOP_basic.ipynb)
-  * [08\_OOP\_advanced](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/08_OOP_advanced.ipynb)
+* [syntax\_notes](Python/Syntax/00_personal_notes.md)
+
 * [Python Virtual Environment](Python/python_virtual_environment.md)
 * [requirements_package_management](Python/requirements.md)
 
 ### 🐱 Git
 
 * [**Git basics**](./)
-  * [Git 101](git/git_basics/git_101.md)
-  * [Branch](git/git_basics/branch.md)
+  * [Git 101](Git/Git_basics/git_101.md)
+  * [Branch](Git/Git_basics/branch.md)
   * [Git ignore](git/git_basics/git_ignore.md)
 * [Git-flow](git/git-flow.md)
 * [Gitbook](git/gitbook.md)
