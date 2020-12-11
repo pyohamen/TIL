@@ -17,6 +17,8 @@
 
 ### 🐍 Python
 
+- [Jupyter notebook](Python/jupyter.md)
+
 * [syntax\_notes](Python/00_personal_notes.md)
 
 * [Python Virtual Environment](Python/python_virtual_environment.md)
@@ -90,10 +92,10 @@
 
 * [01\_Vue.js\_Intro](vue.js/01_vue.js_intro.md)
 
-### 🔍 Data Analysis
+### 🔍 Data Science
 
 - [**이것이 데이터 분석이다 with 파이썬**]()
-  - 00_들어가기전에
+  - [00_들어가기전에](Data_Science/00_들어가기전에.md)
   - 01_데이터에서인사이트발견하기
   - 02_텍스트마이닝첫걸음
   - 03_미래를예측하는데이터분석
