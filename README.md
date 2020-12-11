@@ -27,7 +27,7 @@
   * [06\_errors](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/06_errors.ipynb)
   * [07\_OOP\_basic](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/07_OOP_basic.ipynb)
   * [08\_OOP\_advanced](https://github.com/pyohamen/TIL/tree/80372b2c26379f9e3ab52abb2f7d5ed0399c2941/Python/Syntax/08_OOP_advanced.ipynb)
-* [Python Virtual Environment](Python/00_python_virtual_environment.md)
+* [Python Virtual Environment](Python/python_virtual_environment.md)
 * [requirements_package_management](Python/requirements.md)
 
 ### 🐱 Git
