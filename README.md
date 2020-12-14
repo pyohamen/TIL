@@ -50,7 +50,7 @@
 * [DB basics](db/db_basics.md)
 * [SQL]()
   * [데이터 모델링의 이해]()
-    * [데이터 모델링의 이해]()
+    * [데이터 모델링의 이해](db/SQL/데이터모델링의이해/데이터모델링의이해)
       * [엔터티](db/SQL/데이터모델링의이해/데이터모델링의이해/엔터티.md)
       * [속성](db/SQL/데이터모델링의이해/데이터모델링의이해/속성.md)
       * [관계](db/SQL/데이터모델링의이해/데이터모델링의이해/관계.md)
@@ -94,9 +94,10 @@
 
 ### 🔍 Data Science
 
-- [Pandas](Data_Science/pandas.md)
-- [Numpy](Data_Science/numpy.md)
-- [Matplot](Data_Science/matplot.md)
+- [**Python Library**]()
+  - [Pandas](Data_Science/pandas.md)
+  - [Numpy](Data_Science/numpy.md)
+  - [Matplot](Data_Science/matplot.md)
 
 - [**이것이 데이터 분석이다 with 파이썬**]()
   - [00_들어가기전에](Data_Science/00_들어가기전에.md)
