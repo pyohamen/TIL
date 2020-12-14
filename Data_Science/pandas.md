@@ -2,9 +2,13 @@
 
 > 판다스는 파이썬에서 가장 널리 사용되는 데이터 분석 라이브러리로 **Data Frame** 과 **Series** 자료구조를 사용한다.
 
+
+
 ## Series
 
-> One-dimensional ndarray with axis labels (including time series).
+> One-dimensional ndarray with **axis labels** (including time series).
+>
+> Ex) df[column]
 
 ### Attributes
 
@@ -18,6 +22,9 @@
 | ------------------ | ------------------------------------------------------------ |
 | Series.tolist()    | Return a list of the values                                  |
 | Series.iteritems() | Lazily iterate over (index, value) tuples.<br />Lazily 하게 iterate 한다는 것은 for 문 같은 반복문에서 Series 의 (idx, val) 튜플을 하나씩 꺼내쓰기 위함인 것<br />row 가 index 가 되는 Series 특성상 `for idx, val in enumerate():` 에서는 row 쓸 수 없기 때문에 필요한 것 같다. |
+| Series.unique()    | Return unique values of Series object.<br />type 은 넘파이배열이다. |
+
+
 
 ## DataFrame
 
@@ -42,9 +49,12 @@
   df = pd.read_csv(file_path, sep)
   ```
 
-  
-
 ### Attributes
+
+> Ref) df[column] == df.column
+>
+> DafaFrame 은 인덱싱 안에 조건문을 넣을 수 있다.
+> Ex) df[df.column >= num] => df 중 조건문에 해당하는 row 만 취하는 df 를 반환
 
 | Name     | description                                                  |
 | -------- | ------------------------------------------------------------ |
@@ -59,6 +69,9 @@
 | df.info()                                 | Print a concise summary of a DataFrame.                      |
 | df.head([n])                              | Return the first *n* rows                                    |
 | df.groupby([by])                          | Group DataFrame using a mapper or by a Series of columns.    |
+| df.apply()                                | 이건 뭐... apply 안에서 적용되는 함수가 더 중요한데 따로 써야하나 고민이네<br />데이터전처리를 위해 사용함 |
+
+
 
 ## DataFrame.groupby
 
