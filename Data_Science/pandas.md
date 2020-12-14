@@ -11,8 +11,6 @@
 | Name         | description                           |
 | ------------ | ------------------------------------- |
 | Series.index | The index (axis labels) of the Series |
-|              |                                       |
-|              |                                       |
 
 ### Methods
 
@@ -20,7 +18,6 @@
 | ------------------ | ------------------------------------------------------------ |
 | Series.tolist()    | Return a list of the values                                  |
 | Series.iteritems() | Lazily iterate over (index, value) tuples.<br />Lazily 하게 iterate 한다는 것은 for 문 같은 반복문에서 Series 의 (idx, val) 튜플을 하나씩 꺼내쓰기 위함인 것<br />row 가 index 가 되는 Series 특성상 `for idx, val in enumerate():` 에서는 row 쓸 수 없기 때문에 필요한 것 같다. |
-|                    |                                                              |
 
 ## DataFrame
 
@@ -75,5 +72,4 @@
 | ------- | ---------------------------------------------------------- |
 | Count() | 그냥 갯수 셈 (중복에 상관없이 그냥 행이 몇개인지 세는 듯?) |
 | Sum()   | 대상 column 의 val 들을 누적 합 함                         |
-|         |                                                            |
 
