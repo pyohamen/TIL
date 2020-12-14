@@ -66,7 +66,7 @@
 - [**Python Library**]()
   - [Pandas](Data_Science/pandas.md)
   - [Numpy](Data_Science/numpy.md)
-  - [Matplot](Data_Science/matplot.md)
+  - [Matplot](Data_Science/matplotlib.md)
 
 - [**이것이 데이터 분석이다 with 파이썬**]()
   - [00_들어가기전에](Data_Science/00_들어가기전에.md)
