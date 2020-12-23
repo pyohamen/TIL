@@ -29,6 +29,8 @@
 ## DataFrame
 
 > Two-dimensional, size-mutable, potentially heterogeneous tabular data.
+>
+> 인덱스에 조건문을 넣어서 인덱스 할 수 있음 Ex) results = chipo_orderid_group[chipo_orderid_group.item_price >= 10]
 
 ### Getting data in/out
 
@@ -71,6 +73,7 @@
 | [df.groupby([by])](#DataFrame.groupby)    | Group DataFrame using a mapper or by a Series of columns.    |
 | df.apply()                                | 이건 뭐... apply 안에서 적용되는 함수가 더 중요한데 따로 써야하나 고민이네<br />데이터전처리를 위해 사용함 |
 | df.sort_values([by, ascending...])        | Sort by the values along either axis.                        |
+| Df.drop_duplicates()                      | Return DataFrame with duplicate rows removed.                |
 
 
 
