@@ -29,7 +29,7 @@
 * [**Git basics**](./)
   * [Git 101](Git/Git_basics/git_101.md)
   * [Branch](Git/Git_basics/branch.md)
-  * [Git ignore](git/git_basics/git_ignore.md)
+  * [Git ignore](Git/Git_basics/git_ignore.md)
 * [Git-flow](git/git-flow.md)
 
 ### 1️⃣ HTML
