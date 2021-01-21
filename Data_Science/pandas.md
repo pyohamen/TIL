@@ -74,6 +74,7 @@
 | df.apply()                                | 이건 뭐... apply 안에서 적용되는 함수가 더 중요한데 따로 써야하나 고민이네<br />데이터전처리를 위해 사용함 |
 | df.sort_values([by, ascending...])        | Sort by the values along either axis.                        |
 | Df.drop_duplicates()                      | Return DataFrame with duplicate rows removed.                |
+| df.fillna()                               | 결측치들을 인자 값으로 바꿔준다.                             |
 
 
 
