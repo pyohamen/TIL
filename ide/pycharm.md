@@ -11,12 +11,12 @@
 | shortcut | discription |
 | :--- | :--- |
 | `control` + `shift` + `R` | 현재 파일 실행 |
-|  |  |
+| `control` + `g` | 변수찾기 |
 
 > Window OS
 
 | shortcut                 | discription    |
 | ------------------------ | -------------- |
 | `ctrl` + `shift` + `F10` | 현재 파일 실행 |
-|                          |                |
+| `ctrl` + `g`             | 변수찾기       |
 
