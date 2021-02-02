@@ -12,7 +12,7 @@
 
 ### 🛠 IDE
 
-* [Pycharm](ide/pycharm.md)
+* [Pycharm](/ide/pycharm.md)
 * [VScode](ide/vscode.md)
 
 ### 🐍 Python
