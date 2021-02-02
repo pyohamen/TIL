@@ -142,5 +142,5 @@
   1. [압축](algorithm/programmers/programmers_1.md)
   2. [삼각달팽이](algorithm/programmers/programmers_2.md)
   3. [영어끝말잇기](algorithm/programmers/programmers_3.md)
-  4. [기둥과보](Algorithm/Programmers/programmers_4.md)
+  4. [기둥과보](algorithm/programmers/programmers_4.md)
 
