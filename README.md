@@ -137,5 +137,5 @@
   - [압축](algorithm/programmers/programmers_1.md)
   - [삼각달팽이](algorithm/programmers/programmers_2.md)
   - [영어끝말잇기](algorithm/programmers/programmers_3.md)
-  - [기둥과보](algorithm/programmers/압축.md)
+  - [기둥과보](algorithm/programmers/기둥과보.md)
 
