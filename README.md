@@ -134,8 +134,8 @@
   - [19236 - 청소년 상어](algorithm/boj/19236.md)
   - [19237 - 어른 상어](algorithm/boj/19237.md)
 - [**Programmers**]()
-  - [압축](algorithm/programmers/programmers_1.md)
-  - [삼각달팽이](algorithm/programmers/programmers_2.md)
-  - [영어끝말잇기](algorithm/programmers/programmers_3.md)
+  - [압축](algorithm/programmers/압축.md)
+  - [삼각달팽이](algorithm/programmers/삼각달팽이.md)
+  - [영어끝말잇기](algorithm/programmers/영어끝말잇기.md)
   - [기둥과보](algorithm/programmers/기둥과보.md)
 
