@@ -139,8 +139,8 @@
   19. [19237 - 어른 상어](Algorithm/boj/19237.md)
 
 - [**Programmers**]()
-  1. [압축](Algorithm/Programmers/압축.md)
-  2. [삼각달팽이](Algorithm/Programmers/삼각달팽이.md)
-  3. [영어끝말잇기](Algorithm/Programmers/영어끝말잇기.md)
+  1. [압축](Algorithm/Programmers/programmers_1.md)
+  2. [삼각달팽이](Algorithm/Programmers/programmers_2.md)
+  3. [영어끝말잇기](Algorithm/Programmers/programmers_3.md)
   4. [기둥과보](Algorithm/programmers_4.md)
 
