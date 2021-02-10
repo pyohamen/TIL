@@ -83,8 +83,8 @@
 ### ☁️AWS
 
 * [**AWS 로 시작하는 클라우드 컴퓨팅**](./)
-  * [01 아마존 웹 서비스 Cloud 개요](aws/beginning_cloud_computing_with_aws/01_cloud.md)
-  * [02 AWS 주요 서비스 이해하기](aws/beginning_cloud_computing_with_aws/02_aws.md)
+  * [01 아마존 웹 서비스 Cloud 개요](AWS/beginning_cloud_computing_with_aws/01_cloud.md)
+  * [02 AWS 주요 서비스 이해하기](AWS/beginning_cloud_computing_with_aws/02_aws.md)
 
 ### 🤵🏻 Jenkins
 
