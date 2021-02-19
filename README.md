@@ -33,11 +33,12 @@
   * [Git ignore](git/git_basics/git_ignore.md)
 * [Git-flow](git/git_flow.md)
 
-### 1️⃣ HTML
+### 1️⃣ HTML 2️⃣ CSS
 
-- [html_101](html/html_101.md)
+- [html_101](html,css/html_101.md)
+- [css_101](html,css/css_101.md)
 
-### 2️⃣ CSS
+
 
 ### 3️⃣ JavaScript
 
