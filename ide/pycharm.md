@@ -12,6 +12,7 @@
 | :--- | :--- |
 | `control` + `shift` + `R` | 현재 파일 실행 |
 | `control` + `g` | 변수찾기 |
+| `option` + `F12` | 터미널 열기 |
 
 > Window OS
 
