@@ -67,6 +67,8 @@
 
 ### 🔍 Data Science
 
+- [통계학 노트](Data_Science/통계학노트.md)
+
 - [**Python Library**]()
   - [Pandas](Data_Science/pandas.md)
   - [Numpy](Data_Science/numpy.md)
@@ -75,7 +77,7 @@
   - [00_들어가기전에](Data_Science/00_들어가기전에.md)
   - [01_데이터에서인사이트발견하기](Data_Science/01_데이터에서인사이트발견하기.md)
   - [02_텍스트마이닝첫걸음](Data_Science/02_텍스트마이닝첫걸음.md)
-  - 03_미래를예측하는데이터분석
+  - [03_미래를예측하는데이터분석](Data_Science/03_미래를예측하는데이터분석.md)
   - 04_데이터분류모델
   - 05_데이터분석종합예제
 
