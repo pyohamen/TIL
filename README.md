@@ -67,7 +67,7 @@
 
 ### 🔍 Data Science
 
-- [통계학 노트](Data_Science/통계학노트.md)
+- [**통계학 노트**](Data_Science/통계학노트.md)
 
 - [**Python Library**]()
   - [Pandas](Data_Science/pandas.md)
