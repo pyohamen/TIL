@@ -81,8 +81,7 @@
 
 ### 🔍 Data Science
 
-- [통계학 노트](Data_Science/통계학노트.md)
-
+- [**통계학 노트**](Data_Science/통계학노트.md)
 - [**Python Library**]()
   - [Pandas](Data_Science/pandas.md)
   - [Numpy](Data_Science/numpy.md)
@@ -94,6 +93,9 @@
   - [03_미래를예측하는데이터분석](Data_Science/03_미래를예측하는데이터분석.md)
   - [04_데이터분류모델](Data_Science/04_데이터분류모델.md)
   - [05_데이터분석종합예제](Data_Science/05_종합예제.md)
+- [**데이터사이언스과정(응용)**]()
+  - [선형회귀분석]()
+  - [의사결정나무 및 모형비교]()
 
 
 
@@ -150,7 +152,12 @@
   - [Queue](algorithm/data_structure/queue.md)
   - [Graph](algorithm/data_structure/graph.md)
   - [Hash table](algorithm/data_structure/hash_table.md)
-- [**BOJ**]()
+
+
+
+### 📝 APS
+
+- [**BOJ**](https://www.acmicpc.net/)
   - [1339 - 단어수학](algorithm/boj/1339.md)
   - [3190 - 뱀](algorithm/boj/3190.md)
   - [10157 - 자리배정](algorithm/boj/10157.md)
@@ -170,11 +177,11 @@
   - [18428 - 감시 피하기](algorithm/boj/18428.md)
   - [19236 - 청소년 상어](algorithm/boj/19236.md)
   - [19237 - 어른 상어](algorithm/boj/19237.md)
-- [**Programmers**]()
+- [**Programmers**](https://programmers.co.kr/learn/challenges)
   - [압축](algorithm/programmers/압축.md)
   - [삼각달팽이](algorithm/programmers/삼각달팽이.md)
   - [영어끝말잇기](algorithm/programmers/영어끝말잇기.md)
   - [기둥과보](algorithm/programmers/기둥과보.md)
   - [[1차]셔틀버스](algorithm/programmers/[1차]셔틀버스.md)
-  
+  - [정수삼각형]()
   - [거스름돈]()
