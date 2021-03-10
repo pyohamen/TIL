@@ -183,5 +183,7 @@
   - [영어끝말잇기](algorithm/programmers/영어끝말잇기.md)
   - [기둥과보](algorithm/programmers/기둥과보.md)
   - [[1차]셔틀버스](algorithm/programmers/[1차]셔틀버스.md)
-  - [정수삼각형]()
-  - [거스름돈]()
+  - [정수삼각형](algorithm/programmers/정수삼각형.md)
+  - [거스름돈](algorithm/programmers/거스름돈.md)
+  - [H-index](algorithm/programmers/H-index.md)
+
