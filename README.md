@@ -157,9 +157,12 @@
 
 ### 📝 APS
 
+> 어느 시점부터는 의미가 있는 문제만 업로드하고 있음..
+
 - [**BOJ**](https://www.acmicpc.net/)
   - [1339 - 단어수학](algorithm/boj/1339.md)
   - [3190 - 뱀](algorithm/boj/3190.md)
+  - [9663 - N-Queen](algorithm/boj/9663.md)
   - [10157 - 자리배정](algorithm/boj/10157.md)
   - [11724 - 연결 요소의 개수](algorithm/boj/11724.md)
   - [12100 - 2048](algorithm/boj/12100-2048.md)
