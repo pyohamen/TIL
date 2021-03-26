@@ -106,8 +106,8 @@ def dijkstra(start):
   heapq.heappush(q, (0, start))
   distance[start] = 0
   while q:
-    dist, now = heapq, heappop(q)
-    # 현재 노드가 이미 처리된 적이 있다면 무시
+    dist, now = heapq.heappop(q)
+    # 현재 노드가 이미 처리된 적이 있어서 이미 최단거리 테이블에 더 작은 값이 있다면 무시
     if distance[now] < dist:
       continue
     # 인접 노드 확인
