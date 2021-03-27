@@ -166,6 +166,7 @@
   - [10157 - 자리배정](algorithm/boj/10157.md)
   - [11724 - 연결 요소의 개수](algorithm/boj/11724.md)
   - [12100 - 2048](algorithm/boj/12100-2048.md)
+  - [12865 - 평범한 배낭](algorithm/boj/12865.md)
   - [14499 - 주사위 굴리기](algorithm/boj/14499.md)
   - [14501 - 퇴사](algorithm/boj/14501.md)
   - [14502 - 연구소](algorithm/boj/14502.md)
@@ -189,4 +190,14 @@
   - [정수삼각형](algorithm/programmers/정수삼각형.md)
   - [거스름돈](algorithm/programmers/거스름돈.md)
   - [H-index](algorithm/programmers/H-index.md)
+
+
+
+- Mac OS 업데이트시
+
+  ```sh
+  xcode-select --install
+  ```
+
+  
 
