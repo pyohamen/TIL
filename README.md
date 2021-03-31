@@ -20,12 +20,12 @@
 
 ### 🐍 Python
 
-- [Jupyter notebook](Python/jupyter.md)
+- [Jupyter notebook](python/jupyter.md)
 
-* [syntax\_notes](Python/00_personal_notes.md)
+* [syntax\_notes](python/00_personal_notes.md)
 
-* [Python Virtual Environment](Python/python_virtual_environment.md)
-* [requirements_package_management](Python/requirements.md)
+* [Python Virtual Environment](python/python_virtual_environment.md)
+* [requirements_package_management](python/requirements.md)
 
 
 
@@ -81,20 +81,20 @@
 
 ### 🔍 Data Science
 
-- [**통계학 노트**](Data_Science/통계학노트.md)
+- [**통계학 노트**](data_science/통계학노트.md)
 - [**Python Library**]()
-  - [Pandas](Data_Science/pandas.md)
-  - [Numpy](Data_Science/numpy.md)
-  - [Matplot](Data_Science/matplotlib.md)
+  - [Pandas](data_science/pandas.md)
+  - [Numpy](data_science/numpy.md)
+  - [Matplot](data_science/matplotlib.md)
 - [**이것이 데이터 분석이다 with 파이썬**]()
-  - [00_들어가기전에](Data_Science/00_들어가기전에.md)
-  - [01_데이터에서인사이트발견하기](Data_Science/01_데이터에서인사이트발견하기.md)
-  - [02_텍스트마이닝첫걸음](Data_Science/02_텍스트마이닝첫걸음.md)
-  - [03_미래를예측하는데이터분석](Data_Science/03_미래를예측하는데이터분석.md)
-  - [04_데이터분류모델](Data_Science/04_데이터분류모델.md)
-  - [05_데이터분석종합예제](Data_Science/05_종합예제.md)
+  - [00_들어가기전에](data_science/00_들어가기전에.md)
+  - [01_데이터에서인사이트발견하기](data_science/01_데이터에서인사이트발견하기.md)
+  - [02_텍스트마이닝첫걸음](data_science/02_텍스트마이닝첫걸음.md)
+  - [03_미래를예측하는데이터분석](data_science/03_미래를예측하는데이터분석.md)
+  - [04_데이터분류모델](data_science/04_데이터분류모델.md)
+  - [05_데이터분석종합예제](data_science/05_종합예제.md)
 - [**데이터사이언스과정(응용)**]()
-  - [선형회귀분석](Data_Science/선형회귀분석.md)
+  - [선형회귀분석](data_science/선형회귀분석.md)
   - [의사결정나무 및 모형비교](data_science/의사결정나무및모형비교.md)
 
 
