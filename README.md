@@ -7,6 +7,8 @@
 
 🙋‍♂️ move to my ➡️ [Github](https://github.com/pyohamen)
 
+🔎 Especially, I'm focusing Data-Science. ➡️ [Repo](https://github.com/pyohamen/data-science)
+
 
 
 ## Table of Contents
@@ -79,7 +81,7 @@
 
 
 
-### 🔍 Data Science
+### 🔍 Data Science ⭐️⭐️⭐️
 
 - [**통계학 노트**](data_science/통계학노트.md)
 - [**Python Library**]()
@@ -111,13 +113,13 @@
 
 
 
-### 🐧Linux
+### 🐧 Linux
 
 * [Commands](linux/command.md)
 
 
 
-### ☁️AWS
+### ☁️ AWS
 
 * [**AWS 로 시작하는 클라우드 컴퓨팅**](./)
   * [01 아마존 웹 서비스 Cloud 개요](AWS/beginning_cloud_computing_with_aws/01_cloud.md)
