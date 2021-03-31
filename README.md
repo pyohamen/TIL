@@ -201,7 +201,9 @@
 
 
 
-- Mac OS 업데이트시
+### 💥 TroubleShooting
+
+- xcrun error occurred after macOS update
 
   ```sh
   xcode-select --install
