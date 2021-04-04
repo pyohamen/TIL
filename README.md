@@ -37,7 +37,9 @@
   * [Git 101](git/git_basics/git_101.md)
   * [Branch](git/git_basics/branch.md)
   * [Git ignore](git/git_basics/git_ignore.md)
-* [Git-flow](git/git_flow.md)
+* [**Git-flow**]()
+  * [우아한형제들](git/우아한형제들.md)
+  * [pull_request](Git/pull_request.md)
 
 
 
@@ -98,6 +100,8 @@
 - [**데이터사이언스과정(응용)**]()
   - [선형회귀분석](data_science/선형회귀분석.md)
   - [의사결정나무 및 모형비교](data_science/의사결정나무및모형비교.md)
+- [**Dacon**]()
+  - [퇴근시간버스승차인원예측](data_science/퇴근시간버스승차인원.md)
 
 
 
@@ -208,6 +212,9 @@
   ```sh
   xcode-select --install
   ```
+
+
+- [To check the system operating system in python](trouble/system.md)
 
   
 

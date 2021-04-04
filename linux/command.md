@@ -9,5 +9,5 @@
 | . / source | 실행 | $ source .venv/bin/activate |
 | &gt; | 명령어 뒤에 나오는 파일에 wite, overwrite | $ echo 'hello' &gt; text.txt |
 | &gt;&gt; | 명령어 뒤에 나오는 파일에 추가 | $ echo 'hello' &gt;&gt; text.txt |
-|  |  |  |
+| pwd | 현재 경로 출력 | $ pwd |
 
