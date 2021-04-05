@@ -207,14 +207,14 @@
 
 ### 💥 TroubleShooting
 
-- xcrun error occurred after macOS update
-
-  ```sh
-  xcode-select --install
-  ```
+- [xcrun error occurred after macOS update](macOS_update.md)
 
 
 - [To check the system operating system in python](trouble/system.md)
 
+- [OSError, dlopen, Library not loaded](libomp.md)
+
+  
+  
   
 
