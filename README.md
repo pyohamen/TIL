@@ -5,9 +5,9 @@
 
 > *We do not learn from experiences. We learn from [reflecting](reflecting.md) on experiences* - John Dewey
 
-🙋‍♂️ move to my ➡️ [Github](https://github.com/pyohamen)
+🙋‍♂️ move to my 👉 [Github](https://github.com/pyohamen)
 
-🔎 Especially, I'm focusing Data-Science. ➡️ [Repo](https://github.com/pyohamen/data-science)
+🔎 Especially, I'm focusing Data-Science. 👉 [Repo](https://github.com/pyohamen/data-science)
 
 
 
