@@ -7,7 +7,7 @@
 
 🙋‍♂️ move to my 👉 [Github](https://github.com/pyohamen)
 
-🔎 Especially, I'm focusing Data-Science. 👉 [Repo](https://github.com/pyohamen/data-science)
+🔎 Especially, I'm focusing on Data-Science. 👉 [Repo](https://github.com/pyohamen/data-science)
 
 
 
