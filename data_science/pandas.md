@@ -98,3 +98,27 @@
 | Count() | 그냥 갯수 셈 (중복에 상관없이 그냥 행이 몇개인지 세는 듯?) |
 | Sum()   | 대상 피처의 val 들을 누적 합 함                            |
 
+
+
+# Numpy
+
+> array 개념으로 변수를 사용한다. 넘파이 배열은 데이터 분석에서 쓰는 기본 자료구조. 벡터, 행렬 등의 연산을 쉽고 빠르게 하기 위해 만들어진 파이썬 라이브러리
+
+
+
+# Matplotlib
+
+> 데이터를 그래프로 시각화해주는 라이브러리
+
+## matplotlib.pyplot
+
+> matplotlib.pyplot is a state-based interface to matplotlib
+>
+> state-based 방식 (interface) 과 object-oriented  방식이 있는데
+> [링크](https://stackoverflow.com/questions/52816131/matplotlib-pyplot-documentation-says-it-is-state-based-interface-to-matplotlib) 에 차이점을 설명해주는데 아직 감이 잡히는 정도일 뿐, 완벽하게 이해는 안 됨
+
+```python
+# 일단 현재 진행하는 범위에서 pyplot 외의 attribute 를 본 적이 없음
+import matplotlib.pyplot as plt
+```
+

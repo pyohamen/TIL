@@ -25,8 +25,8 @@
 - [Jupyter notebook](python/jupyter.md)
 
 * [syntax\_notes](python/00_personal_notes.md)
-
 * [Python Virtual Environment](python/python_virtual_environment.md)
+* [Anaconda](python/00_들어가기전에.md)
 * [requirements_package_management](python/requirements.md)
 
 
@@ -38,15 +38,15 @@
   * [Branch](git/git_basics/branch.md)
   * [Git ignore](git/git_basics/git_ignore.md)
 * [**Git-flow**]()
-  * [우아한형제들](git/우아한형제들.md)
-  * [pull_request](Git/pull_request.md)
+  * [Woowabros Blog](git/우아한형제들.md)
+  * [Pull Request](Git/pull_request.md)
 
 
 
 ### 1️⃣ HTML 2️⃣ CSS
 
-- [html_101](html,css/html_101.md)
-- [css_101](html,css/css_101.md)
+- [html 101](html,css/html_101.md)
+- [css 101](html,css/css_101.md)
 
 
 
@@ -83,22 +83,43 @@
 
 
 
-### 🔍 Data Science ⭐️⭐️⭐️
+### 🔍 Data Science
 
-- [**통계학 노트**](data_science/통계학노트.md)
-- [**Python Library**]()
-  - [Pandas](data_science/pandas.md)
-  - [Numpy](data_science/numpy.md)
-  - [Matplot](data_science/matplotlib.md)
-- [**이것이 데이터 분석이다 with 파이썬**]()
-  - [00_들어가기전에](data_science/00_들어가기전에.md)
-  - [01_데이터에서인사이트발견하기](data_science/01_데이터에서인사이트발견하기.md)
-  - [02_텍스트마이닝첫걸음](data_science/02_텍스트마이닝첫걸음.md)
+- [**Statistics**](data_science/통계학노트.md)
+
+  - [모수와 추정량]()
+
+- [**Pandas, Numpy, Matplot**](data_science/pandas.md)
+
+- [**EDA(Exploratory Data Analysis)**](data_science/01_데이터에서인사이트발견하기.md)
+
+- [Supervised Learning](data_science/의사결정나무및모형비교.md)
+
+- Unsupervised Learning
+
+  - 군집분석
+  - 텍스트분석
+
+- Deep Learning
+
+  - DNN
+  - CNN
+  - RNN
+  - Reinforcement Learning
+
+  
+
+  
+
   - [03_미래를예측하는데이터분석](data_science/03_미래를예측하는데이터분석.md)
   - [04_데이터분류모델](data_science/04_데이터분류모델.md)
   - [05_데이터분석종합예제](data_science/05_종합예제.md)
+
 - [**데이터사이언스과정(응용)**]()
+  
   - [의사결정나무 및 모형비교](data_science/의사결정나무및모형비교.md)
+  - 
+  
 - [**Dacon**]()
   - [퇴근시간버스승차인원예측](data_science/퇴근시간버스승차인원.md)
 
@@ -106,13 +127,13 @@
 
 ### ∞ Colab
 
-- [**Colab_101**](colab/colab_101.md)
+- [**Colab 101**](colab/colab_101.md)
 
 
 
 ### ☕️ Java
 
-- [**java_101**](java/java_101.md)
+- [**java 101**](java/java_101.md)
 
 
 
