@@ -33,11 +33,11 @@
 
 ### 🐱 Git
 
-* [**Git basics**](./)
+* [Git basics](./)
   * [Git 101](git/git_basics/git_101.md)
   * [Branch](git/git_basics/branch.md)
   * [Git ignore](git/git_basics/git_ignore.md)
-* [**Git-flow**]()
+* [Git-flow]()
   * [Woowabros Blog](git/우아한형제들.md)
   * [Pull Request](Git/pull_request.md)
 
@@ -85,13 +85,14 @@
 
 ### 🔍 Data Science
 
-- [**Statistics**](data_science/통계학노트.md)
+- [Statistics](data_science/통계학노트.md)
 
   - [모수와 추정량]()
+  - 
 
-- [**Pandas, Numpy, Matplot**](data_science/pandas.md)
+- [Pandas, Numpy, Matplot](data_science/pandas.md)
 
-- [**EDA(Exploratory Data Analysis)**](data_science/01_데이터에서인사이트발견하기.md)
+- [EDA(Exploratory Data Analysis)](data_science/01_데이터에서인사이트발견하기.md)
 
 - [Supervised Learning](data_science/의사결정나무및모형비교.md)
 
@@ -115,25 +116,26 @@
   - [04_데이터분류모델](data_science/04_데이터분류모델.md)
   - [05_데이터분석종합예제](data_science/05_종합예제.md)
 
-- [**데이터사이언스과정(응용)**]()
+- [데이터사이언스과정(응용)]()
   
   - [의사결정나무 및 모형비교](data_science/의사결정나무및모형비교.md)
   - 
   
-- [**Dacon**]()
+- [Dacon]()
+  
   - [퇴근시간버스승차인원예측](data_science/퇴근시간버스승차인원.md)
 
 
 
 ### ∞ Colab
 
-- [**Colab 101**](colab/colab_101.md)
+- [Colab 101](colab/colab_101.md)
 
 
 
 ### ☕️ Java
 
-- [**java 101**](java/java_101.md)
+- [java 101](java/java_101.md)
 
 
 
@@ -145,7 +147,7 @@
 
 ### ☁️ AWS
 
-* [**AWS 로 시작하는 클라우드 컴퓨팅**](./)
+* [AWS 로 시작하는 클라우드 컴퓨팅](./)
   * [01 아마존 웹 서비스 Cloud 개요](AWS/beginning_cloud_computing_with_aws/01_cloud.md)
   * [02 AWS 주요 서비스 이해하기](AWS/beginning_cloud_computing_with_aws/02_aws.md)
 
@@ -166,8 +168,8 @@
 
 ### 💡 Algorithm
 
-- [**Notes**](algorithm/aps/notes.md)
-- [**Implementation**]()
+- [Notes](algorithm/aps/notes.md)
+- [Implementation]()
   - [DFS](algorithm/implementation/dfs.md)
 
   - [BFS](algorithm/implementation/bfs.md)
@@ -179,7 +181,7 @@
   - [Dynamic Programming](algorithm/implementation/dynamic_programming.md)
 
   - [Dijkstra](algorithm/implementation/dijkstra.md)
-- [**Data structure**]()
+- [Data structure]()
   - [Stack](algorithm/data_structure/stack.md)
   - [Queue](algorithm/data_structure/queue.md)
   - [Graph](algorithm/data_structure/graph.md)
@@ -191,7 +193,7 @@
 
 > 어느 시점부터는 의미가 있는 문제만 업로드하고 있음..
 
-- [**BOJ**](https://www.acmicpc.net/)
+- [BOJ](https://www.acmicpc.net/)
   - [1339 - 단어수학](algorithm/boj/1339.md)
   - [3190 - 뱀](algorithm/boj/3190.md)
   - [9663 - N-Queen](algorithm/boj/9663.md)
@@ -213,7 +215,7 @@
   - [18428 - 감시 피하기](algorithm/boj/18428.md)
   - [19236 - 청소년 상어](algorithm/boj/19236.md)
   - [19237 - 어른 상어](algorithm/boj/19237.md)
-- [**Programmers**](https://programmers.co.kr/learn/challenges)
+- [Programmers](https://programmers.co.kr/learn/challenges)
   - [압축](algorithm/programmers/압축.md)
   - [삼각달팽이](algorithm/programmers/삼각달팽이.md)
   - [영어끝말잇기](algorithm/programmers/영어끝말잇기.md)
